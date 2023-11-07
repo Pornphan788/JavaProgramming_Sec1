@@ -1,0 +1,5 @@
+Student_ID : 2313111060
+Student_Name : PornPhan Loetwanitroth
+Major : Infomation Technology
+Level : 1
+Faculty : Infomation Technology
